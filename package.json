@@ -1,0 +1,22 @@
+{
+  "name": "bigbadwoolf",
+  "version": "1.0.0",
+  "description": "bigbadwoolf project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Roman040698/bigbadwoolf.git"
+  },
+  "dependencies": {
+    "minti_fulkerson": "0.1.4"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Roman040698/bigbadwoolf/issues"
+  },
+  "homepage": "https://github.com/Roman040698/bigbadwoolf#readme"
+}
