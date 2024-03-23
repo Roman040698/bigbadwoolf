@@ -11,6 +11,7 @@
     "url": "git+https://github.com/Roman040698/bigbadwoolf.git"
   },
   "dependencies": {
+    "revolts": "1.0.0",
     "minti_fulkerson": "0.1.4"
   },
   "author": "",
